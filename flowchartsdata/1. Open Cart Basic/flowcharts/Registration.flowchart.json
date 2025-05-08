@@ -56,8 +56,8 @@
         "content": "Is $user already logged in?",
         "nodeType": "dynamic-decision",
         "branches": [
-          "fcn_sdfdf_0",
-          "fcn_test1_0"
+          "fcn_test1_0",
+          "fcn_sdfdf_0"
         ]
       },
       "fcn_test1_0": {
